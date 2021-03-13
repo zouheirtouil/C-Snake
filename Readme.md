@@ -42,7 +42,7 @@ Dans cette version, J'ai implémenté une panoplie de fonctionnalité pour avoir
 
 # Voici quelques **SreensShots** du jeu:
 
-!<img src="ScreensShots_Of_Game/Menu.PNG" width="1000">
+!<img src="Menu.PNG" width="1000">
 
 
 
